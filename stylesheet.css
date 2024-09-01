@@ -39,11 +39,10 @@ h1:hover {
 .tag-wrapper {
     background-color: #F4D04E;
     width: fit-content;
+    height: auto;
     display: flex;
     padding-left: .75rem;
-    padding-right: .75rem;
-    justify-content: center;
-    align-items: center;
+    padding-right: .75rem; 
     border-radius: 0.625rem;
     margin-top: 1rem;
 }
