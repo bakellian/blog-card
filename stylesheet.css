@@ -23,8 +23,8 @@ body {
 }
 
 .card-image-wrapper{
+    width: 100%;
     border-radius: 0.625rem;
-    overflow: hidden;
 }
 
 h1 {
@@ -45,6 +45,7 @@ h1:hover {
     padding-right: .75rem; 
     border-radius: 0.625rem;
     margin-top: 1rem;
+    border: 0;
 }
 
 .tag {
